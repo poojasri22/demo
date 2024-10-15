@@ -1,2 +1,2 @@
-hello to everyone
-hii
+print("hello to everyone")
+print("hii")
